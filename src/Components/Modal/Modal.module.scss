@@ -33,7 +33,6 @@
 .btnModal {
   border: none;
   outline: none;
-  color: white;
   background-color: rgba(0, 0, 0, 0);
 
   &:hover {
@@ -45,7 +44,7 @@
   cursor: pointer;
 }
 .iconNextImage path {
-  fill: grey;
+  fill: #4b0082;
 }
 
 .iconNextImage:hover path {
@@ -63,6 +62,10 @@
   background-color: rgba(0, 0, 0, 0);
 
   cursor: pointer;
+}
+
+.iconCloseModal path {
+  fill: grey;
 }
 
 .iconCloseModal:hover path {
