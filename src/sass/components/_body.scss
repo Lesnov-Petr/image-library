@@ -1,0 +1,18 @@
+.App {
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  @include for-size(desktop) {
+  }
+
+  @include for-size(desktop-only) {
+  }
+  @include for-size(tablet) {
+  }
+  @include for-size(tablet-only) {
+  }
+  @include for-size(mobile) {
+  }
+}
