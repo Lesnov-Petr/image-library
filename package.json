@@ -1,8 +1,8 @@
 {
-  "name": "react-new",
+  "name": "image-library",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Lesnov-Petr.github.io/React",
+  "homepage": "https://Lesnov-Petr.github.io/image-library",
   "dependencies": {
     "@reduxjs/toolkit": "^1.6.1",
     "@testing-library/jest-dom": "^5.11.10",
