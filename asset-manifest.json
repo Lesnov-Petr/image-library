@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/React/static/css/main.6547b8a7.chunk.css",
-    "main.js": "/React/static/js/main.cb0a2564.chunk.js",
-    "main.js.map": "/React/static/js/main.cb0a2564.chunk.js.map",
-    "runtime-main.js": "/React/static/js/runtime-main.6cce812e.js",
-    "runtime-main.js.map": "/React/static/js/runtime-main.6cce812e.js.map",
-    "static/js/2.c2d5405b.chunk.js": "/React/static/js/2.c2d5405b.chunk.js",
-    "static/js/2.c2d5405b.chunk.js.map": "/React/static/js/2.c2d5405b.chunk.js.map",
-    "index.html": "/React/index.html",
-    "static/css/main.6547b8a7.chunk.css.map": "/React/static/css/main.6547b8a7.chunk.css.map",
-    "static/js/2.c2d5405b.chunk.js.LICENSE.txt": "/React/static/js/2.c2d5405b.chunk.js.LICENSE.txt",
-    "static/media/backwards-icon.45a85bd1.svg": "/React/static/media/backwards-icon.45a85bd1.svg",
-    "static/media/close.ad7e0f86.svg": "/React/static/media/close.ad7e0f86.svg",
-    "static/media/forward-icon.2176cb3d.svg": "/React/static/media/forward-icon.2176cb3d.svg"
+    "main.css": "/image-library/static/css/main.6547b8a7.chunk.css",
+    "main.js": "/image-library/static/js/main.ca920a87.chunk.js",
+    "main.js.map": "/image-library/static/js/main.ca920a87.chunk.js.map",
+    "runtime-main.js": "/image-library/static/js/runtime-main.b0649b2c.js",
+    "runtime-main.js.map": "/image-library/static/js/runtime-main.b0649b2c.js.map",
+    "static/js/2.523d97b3.chunk.js": "/image-library/static/js/2.523d97b3.chunk.js",
+    "static/js/2.523d97b3.chunk.js.map": "/image-library/static/js/2.523d97b3.chunk.js.map",
+    "index.html": "/image-library/index.html",
+    "static/css/main.6547b8a7.chunk.css.map": "/image-library/static/css/main.6547b8a7.chunk.css.map",
+    "static/js/2.523d97b3.chunk.js.LICENSE.txt": "/image-library/static/js/2.523d97b3.chunk.js.LICENSE.txt",
+    "static/media/backwards-icon.45a85bd1.svg": "/image-library/static/media/backwards-icon.45a85bd1.svg",
+    "static/media/close.ad7e0f86.svg": "/image-library/static/media/close.ad7e0f86.svg",
+    "static/media/forward-icon.2176cb3d.svg": "/image-library/static/media/forward-icon.2176cb3d.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6cce812e.js",
-    "static/js/2.c2d5405b.chunk.js",
+    "static/js/runtime-main.b0649b2c.js",
+    "static/js/2.523d97b3.chunk.js",
     "static/css/main.6547b8a7.chunk.css",
-    "static/js/main.cb0a2564.chunk.js"
+    "static/js/main.ca920a87.chunk.js"
   ]
 }
